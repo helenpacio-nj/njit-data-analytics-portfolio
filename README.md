@@ -1,4 +1,4 @@
-# njit-data-analytics-portfolio
+rem # njit-data-analytics-portfolio
 # NJIT Data Science & Analytics Portfolio 
 
 This repository contains projects and visualizations from the Data Science & Analytics program with [HackerU](https://hackerusa.com/). 
